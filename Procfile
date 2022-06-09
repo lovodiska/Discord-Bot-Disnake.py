@@ -1,0 +1,1 @@
+worker: python DiscV0.py
